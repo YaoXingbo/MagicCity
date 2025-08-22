@@ -20,9 +20,7 @@ from depth/segmentation maps and then encode these features through our Dual Enc
 (c) Finally, the generated multi-view images are fed into a robust 3D Gaussian Splatting pipeline, where instance-level consistency scores guide the color initialization and adaptive optimization of 3D Gaussian points across views.
 
 ### Results
-[![Watch the results video](results_1.mp4)](results_1.mp4)
-
-[Direct link to results_1.mp4](results_1.mp4)
+<img src="results_1.gif" alt="MagicCity Results" width="500" />
 
 ### Todo List
 - **dataset preparation instruction**
