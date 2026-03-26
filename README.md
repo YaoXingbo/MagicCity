@@ -1,8 +1,6 @@
 ## [ICCV2025] MagicCity: Geometry-Aware 3D City Generation from Satellite Imagery with Multi-View Consistency
 
-This is the project page of MagicCity: Geometry-Aware 3D City Generation from Satellite Imagery with Multi-View Consistency.
-
-<p><strong><span style="color:red;">Notice: MagicCity is currently under patent application. The code and related resources will be open-sourced after the patent process is completed. Thank you for your understanding.</span></strong></p>
+## Notice: MagicCity is currently under patent application. The code and related resources will be open-sourced after the patent process is completed. Thank you for your understanding.
 
 ### Cover
 <img src="cover.png" alt="MagicCity Cover" />
